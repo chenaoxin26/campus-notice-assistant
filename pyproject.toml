@@ -1,0 +1,7 @@
+[project]
+name = "campus-notice-assistant"
+version = "0.1.0"
+description = "Windows 本地校园通知采集与待办整理助手"
+requires-python = ">=3.11"
+dependencies = ["openpyxl>=3.1.5,<4"]
+license = "MIT"

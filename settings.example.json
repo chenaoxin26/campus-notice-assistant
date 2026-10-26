@@ -1,0 +1,12 @@
+{
+  "api_url": "http://127.0.0.1:11434",
+  "model": "qwen3:4b-instruct-2507-q4_K_M",
+  "allow_start_model_service": false,
+  "ollama_exe": "",
+  "models_dir": "",
+  "collector_root": "collector",
+  "groups": [],
+  "version": "github-release",
+  "notification_poll_seconds": 3,
+  "qq_app_ids": []
+}

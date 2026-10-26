@@ -1,0 +1,232 @@
+{
+  "version": "0.1.0",
+  "format": "source-only",
+  "contains_private_data": false,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 130,
+      "sha256": "98b05b348408c9cc251dbd5ffe81c68d0d82f4d2e0695270c236a46039b7415d"
+    },
+    {
+      "path": ".github/workflows/tests.yml",
+      "bytes": 419,
+      "sha256": "fa6dd3bda09a294af12199788c862105193f9669f6ca479223b5fb18fd4fe299"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 389,
+      "sha256": "afa0803a6901fc6a1eb54761fd33bc2b8d8fd8539a9271647f81b0c4ffde7d36"
+    },
+    {
+      "path": "app.py",
+      "bytes": 12530,
+      "sha256": "b45dd9f2a6e91fef12c0627dc6c118895b8de027d4fc80456cb97c5cdec1b6fd"
+    },
+    {
+      "path": "build.cmd",
+      "bytes": 744,
+      "sha256": "eb8f9bbfed8f2461c55462ffd55171d8e3f4403960b1a797d14500a0c2524633"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 619,
+      "sha256": "8126669b14f5fc1f5ab7d3aa620fb518237a14b834a922431ed7e53043eaa33c"
+    },
+    {
+      "path": "chat_source.py",
+      "bytes": 6217,
+      "sha256": "1ee5c5b8951cf9c49a1003c2d1171222959c015018461d221176ed310c035a19"
+    },
+    {
+      "path": "collector/build.cmd",
+      "bytes": 764,
+      "sha256": "0e1c9569103c98ac24b198f26406d1730619853cd0f51da14b8a2e615af1acf1"
+    },
+    {
+      "path": "collector/collector.py",
+      "bytes": 13139,
+      "sha256": "a197cfadd009281e81416a73fa5fb5f2656ef5a792c4c7fbaa3b9789d73853d4"
+    },
+    {
+      "path": "collector/continuous.py",
+      "bytes": 13612,
+      "sha256": "c3319341d517f62705dc24b243eb4b17c6b8dc5bed4ae71517fc2c8dca461bf7"
+    },
+    {
+      "path": "collector/PowerWatch.cs",
+      "bytes": 2536,
+      "sha256": "0adca6bffd7feabd55ef9d2e8feb270a6e7ba18247ecbeaf253e53c1f021bab9"
+    },
+    {
+      "path": "collector/Probe.cs",
+      "bytes": 15749,
+      "sha256": "c4daa8cfa3695048322889c7b6510252162a46a2d87230dc81368ecac14332a3"
+    },
+    {
+      "path": "collector/Probe.manifest",
+      "bytes": 507,
+      "sha256": "915e3f273b5b09203b5d7b42a811b705f2510d7d4becbdcd8ecb0e57958ba61d"
+    },
+    {
+      "path": "collector/rotation.py",
+      "bytes": 19639,
+      "sha256": "6285ac96eb2a4e50e38b69cec9f7e08fee3ffdf8676daa6f262287d854149a37"
+    },
+    {
+      "path": "collector/tests/test_collector.py",
+      "bytes": 3636,
+      "sha256": "7c273cc1966aed5636009e01c4a05b095220b3cb3b819b34df32d23d955bc478"
+    },
+    {
+      "path": "collector/tests/test_continuous.py",
+      "bytes": 5907,
+      "sha256": "d4469b7aeb9b49c176dfcee28b5a2624a9c7423478ae51a5927f9566e06ef11d"
+    },
+    {
+      "path": "collector/tests/test_rotation.py",
+      "bytes": 7017,
+      "sha256": "1b5e7e5293a6766961c1c560aea17c3cbe40e1ea89acbed3dfaf8fcaaf127e6d"
+    },
+    {
+      "path": "collector/trial.py",
+      "bytes": 12151,
+      "sha256": "dedc53d74dcffe9c1e635d790c03709e32295ac5a66dae21f4f3e4008500132a"
+    },
+    {
+      "path": "core.py",
+      "bytes": 24267,
+      "sha256": "e77c4485cc97242de8ae38d95ae3c9e6b8d7b7fa9358a6c8375788b53e4247ba"
+    },
+    {
+      "path": "docs/QQ实际测试流程.md",
+      "bytes": 3851,
+      "sha256": "85c1bf5b95c30075b065ab1eb2bf568f8ef615296507ce012de7ce44b08ab5e1"
+    },
+    {
+      "path": "docs/发布验证记录.md",
+      "bytes": 3997,
+      "sha256": "7a9107505def7376084ef8250c9564675a422bfa0c59e8dc00cd8f36522c1c77"
+    },
+    {
+      "path": "docs/开发与协作记录.md",
+      "bytes": 4037,
+      "sha256": "08e4ea221f1a0dd4942dbb6708731325ecf2a7256ef6b28fb760c4be24956bab"
+    },
+    {
+      "path": "docs/技术说明.md",
+      "bytes": 6140,
+      "sha256": "3c6d4e0756ac4ccd43225a9cf36df136346afdcb734e8df441f64a65f44b31b0"
+    },
+    {
+      "path": "examples/虚构通知.txt",
+      "bytes": 444,
+      "sha256": "b51c286c61ba9573435e04d48dd83a4a6ea835dbb56850a38f7d5f9d4b3ff0f0"
+    },
+    {
+      "path": "excel_export.py",
+      "bytes": 5477,
+      "sha256": "9ae6e844a5b7d71ad1ce2b249d71445960474073387b9d35ea8de6ebaa8c553f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25690,
+      "sha256": "eff810b1a7f2e513e00346501d835bfdbfdda1d30b4d1f36878c84740225e4ee"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1114,
+      "sha256": "11b4b4f6f915c7fe55108e79ce666b01e7ac7eb57c3210099cfcd8a0cde9c4ff"
+    },
+    {
+      "path": "migrate.py",
+      "bytes": 4904,
+      "sha256": "cdd1ee9cb4201ce1fbe24b54635a5b5ab02609cb4051eea65ebfc517dcbae837"
+    },
+    {
+      "path": "notification_source.py",
+      "bytes": 7325,
+      "sha256": "30115b50787ff1f90bbde288163429b077fc0c038a6c90dc1c64fd62a75fd78b"
+    },
+    {
+      "path": "NotificationBridge.cs",
+      "bytes": 3554,
+      "sha256": "e8ab1e73e16ea7c1150675bf8f43188214513520d6f713917ab8873d6bb33c58"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 219,
+      "sha256": "1ea7689eca98822059cab7e6fdbdcba03b5e97b469c5e08092271e983a98c1e3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7086,
+      "sha256": "2f700b32e576b2b05fde38dd608eb1fb070f770c8c9fc5626ccdcac55d004083"
+    },
+    {
+      "path": "requirements-dev.txt",
+      "bytes": 21,
+      "sha256": "e6e2dfcb6ceb55a4f47bd7d7227393d63fbcbd4a9bbf0ffce22b7464186d9644"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 20,
+      "sha256": "586ac1027fbc67a101f78df18c24544c14d300934239bad91bbd0b2d417442e6"
+    },
+    {
+      "path": "scripts/run_tests.py",
+      "bytes": 481,
+      "sha256": "b204cdb14fefd59124e01538186d84e03d14f85f68a7ba8ab2c2dd7439b48c49"
+    },
+    {
+      "path": "scripts/smoke_test.py",
+      "bytes": 6671,
+      "sha256": "9599725e91baf2221a8f560e2987d24dc806be3e8197989e97a0d18a07b7711b"
+    },
+    {
+      "path": "settings.example.json",
+      "bytes": 310,
+      "sha256": "2011a7fce238da55443ea92597c4be3c4d6cdf5e8f656d2594cfe38464034255"
+    },
+    {
+      "path": "setup.cmd",
+      "bytes": 626,
+      "sha256": "eecf98ab7f425afc692487d436fadc00d6b1ff9a33ad68e9e1db48c12a182d2d"
+    },
+    {
+      "path": "test_core.py",
+      "bytes": 4560,
+      "sha256": "98b351fe53bd307a8a0ab52863ddf4ae2847aa36fac7b310c27e0150d98ccedd"
+    },
+    {
+      "path": "test_merge.py",
+      "bytes": 3444,
+      "sha256": "015c3cb26aa56f388e8afabb388fd7ce011e7125edfac47483a247b860b99c6c"
+    },
+    {
+      "path": "test_notifications.py",
+      "bytes": 3616,
+      "sha256": "ac14c2b798946ff865911ec3505c915c2fd8ead93186fa9ee0dd83d6a3a4b31e"
+    },
+    {
+      "path": "test_release.py",
+      "bytes": 4116,
+      "sha256": "55812b66f80c8c10db7797dfae6d2c5eefa074bbbe39076a2bf83615a833e124"
+    },
+    {
+      "path": "test_routes.py",
+      "bytes": 1755,
+      "sha256": "dbf10f346cec4d6fee63216945544e88bab9a704e7a6a30d57b6a70668c05c98"
+    },
+    {
+      "path": "启动助手.cmd",
+      "bytes": 206,
+      "sha256": "f4c5d34e6f8f4312851b4846f00a9eb5c14ed6165f938755fea41ecf3dd809f7"
+    },
+    {
+      "path": "运行测试.cmd",
+      "bytes": 188,
+      "sha256": "d9c79962956d8f3e75baa6cecb3749e4783ae4e449671f1a754d9b6364be139c"
+    }
+  ]
+}
